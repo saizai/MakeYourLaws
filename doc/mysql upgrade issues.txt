@@ -1,0 +1,8 @@
+[Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+[Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+[Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+[Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+[Note] /usr/local/mysql/bin/mysqld (mysqld 5.7.13-log) starting as process 73704 ...
+[Warning] Setting lower_case_table_names=2 because file system for /usr/local/mysql/data/ is case insensitive
+[Warning] InnoDB: Using innodb_file_format is deprecated and the parameter may be removed in future releases. See http://dev.mysql.com/doc/refman/5.7/en/innodb-file-format.html
+[Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
