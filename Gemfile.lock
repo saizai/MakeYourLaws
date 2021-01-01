@@ -387,7 +387,7 @@ GEM
     psych (3.0.2)
     public_suffix (3.0.2)
     puma (3.11.2)
-    rack (2.0.4)
+    rack (2.1.4)
     rack-attack (5.0.1)
       rack
     rack-cache (1.7.1)
